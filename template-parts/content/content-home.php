@@ -1,4 +1,5 @@
 <!-- Cta Hero Banner Section -->
+
 <div class="container-fluid main-section" style="background:linear-gradient(rgb(173 170 170 / 58%), rgb(10 18 80 / 66%), rgb(0 0 0 / 56%)), url(<?php echo get_field('cta_banner_image') ?>);">
 	<div class="container">
   <div class="row">
@@ -15,6 +16,7 @@
 <!-- Cta Hero Banner Section Ends -->
 
 <!-- Enterprises Section -->
+
 <div class="container themeColor">
   <h3 class="whiteColor text-center p-top"> Use the tools of top enterprises </h3>
   <p class="whiteColor text-center"> Hundreds of companies manage their database operations with our products</p>
@@ -126,4 +128,5 @@
     </a>
   </div>
 </div>
+
 <!-- Resources Section Ends-->
